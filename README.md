@@ -2,7 +2,7 @@
 
 Cette application simule une interface bancaire simple avec Java et Swing.
 
----
+--- 
 
 ## ✅ Fonctionnalités
 
